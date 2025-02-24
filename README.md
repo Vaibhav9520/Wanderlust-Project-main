@@ -100,5 +100,5 @@ Feel free to fork this repository and submit pull requests.
 This project is licensed under the **MIT License**.
 
 ## 📞 Contact
-For any queries, feel free to reach out at **vaibhavsingh01080@example.com** or open an issue in this repository.
+For any queries, feel free to reach out at **vaibhavsingh01080@gmail.com** or open an issue in this repository.
 
